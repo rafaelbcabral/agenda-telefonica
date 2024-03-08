@@ -1,7 +1,7 @@
 <h1 align="center">
 <p ><b> <b style="text-decoration: none; color: #007bff">Agenda </b>Telefonica 🤳🏻📲<b></p>
 
-<img src="screenshot_1.jpg">
+<img src="img/img-site.jpg">
 <br>
 </h1>
 
